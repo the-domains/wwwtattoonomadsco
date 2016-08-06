@@ -1,4 +1,3 @@
-layout_spectrum: 0.74878104403615
 typography_spectrum: 0.5940572086255997
 color:
   brandStrength: 0.02081666048616171
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.74878104403615
 name: www.tattoonomads.co
 title: Tattoo Nomads
+description: Tattoo Nomads
